@@ -105,8 +105,8 @@ VALUES
 
 INSERT INTO `users` (`unique_id`, `name`, `email`, `mobile`,`addr`,`city`, `img_path_u`, `encrypted_password`, `salt`,`token`, `created_at`)
 VALUES
-('58aab427e1a8b0.31722705', 'Vijay Purohit', 'vijay.pu9@gmail.com', '7568300515', 'Rathore Lane', 'Sirohi', 'http://localhost/jk_api/%23all_img/_userImage/58aab427e1a8b0.31722705.jpeg', 'VZ8upYjvDEp0muTtELUgE0pTLxA1YzE1YTYzNjYy', '5c15a63662', '1234567989' ,NOW()) ,
-('58aab427e1a8b0.39728706', 'AlogMsk', 'algomsk@gmail.com', '9549199160', 'Housing Board', 'Aburoad', 'http://localhost/jk_api/%23all_img/_userImage/58aab427e1a8b0.39728706.jpeg', 'VZ8upYjvDEp0muTtELUgE0pTLxA1YzE1YTYzNjYy', '5c15a63662','1234527122' ,NOW());
+('58aab427e1a8b0.31722705', 'Vijay Purohit', 'vijay.pu9@gmail.com', '123456789', 'Rathore Lane', 'Sirohi', 'http://localhost/jk_api/%23all_img/_userImage/58aab427e1a8b0.31722705.jpeg', 'VZ8upYjvDEp0muTtELUgE0pTLxA1YzE1YTYzNjYy', '5c15a63662', '1234567989' ,NOW()) ,
+('58aab427e1a8b0.39728706', 'AlogMsk', 'algomsk@gmail.com', '987654321', 'Housing Board', 'Aburoad', 'http://localhost/jk_api/%23all_img/_userImage/58aab427e1a8b0.39728706.jpeg', 'VZ8upYjvDEp0muTtELUgE0pTLxA1YzE1YTYzNjYy', '5c15a63662','1234527122' ,NOW());
 
 INSERT INTO `rooms` (`room_id`, `room_type_id`, `room_no`)
 VALUES
